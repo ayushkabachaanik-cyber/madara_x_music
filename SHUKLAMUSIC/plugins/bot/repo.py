@@ -27,7 +27,7 @@ async def start(_, msg):
         
      [
             InlineKeyboardButton("˹ᴘʀιᴠᴧᴄʏ˼", url=f"https://telegra.ph/Privacy-Policy-08-03-101"),
-            InlineKeyboardButton("𝐒ᴏᴜʀᴄᴇ 𝐂ᴏᴅᴇ", url=f"https://files.catbox.moe/k3ywrd.mp4"),
+            InlineKeyboardButton("𝐒ᴏᴜʀᴄᴇ 𝐂ᴏᴅᴇ", url=f"https://files.catbox.moe/sit1e6.mp4"),
         ],
         
           [
